@@ -1,7 +1,7 @@
 package com.commandline.app.commands;
 
 import java.math.BigDecimal;
-
+import com.commandline.app.commands.api.Command;
 import com.commandline.app.annotation.CommandPath;
 
 @CommandPath(path = "add")

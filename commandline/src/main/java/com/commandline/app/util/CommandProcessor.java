@@ -1,7 +1,7 @@
 package com.commandline.app.util;
 
 import com.commandline.app.annotation.CommandPath;
-import com.commandline.app.commands.Command;
+import com.commandline.app.commands.api.Command;
 
 import java.io.File;
 import java.net.URL;

@@ -1,4 +1,4 @@
-package com.commandline.app.commands;
+package com.commandline.app.commands.api;
 
 
 public interface Command {

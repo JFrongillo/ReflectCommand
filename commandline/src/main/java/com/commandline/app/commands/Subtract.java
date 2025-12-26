@@ -3,6 +3,7 @@ package com.commandline.app.commands;
 import java.math.BigDecimal;
 
 import com.commandline.app.annotation.CommandPath;
+import com.commandline.app.commands.api.Command;
 
 @CommandPath(path = "subtract")
 public class Subtract implements Command {
