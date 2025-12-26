@@ -1,0 +1,6 @@
+com\commandline\app\util\CommandProcessor.class
+com\commandline\app\annotation\CommandPath.class
+com\commandline\app\commands\Add.class
+com\commandline\app\commands\Subtract.class
+com\commandline\app\Main.class
+com\commandline\app\commands\Command.class
